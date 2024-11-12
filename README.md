@@ -59,7 +59,7 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 ```
-NumberRangeSummarizerProject
+ImpactTechnical
 ├── pom.xml
 ├── src
 │   ├── main
@@ -69,15 +69,11 @@ NumberRangeSummarizerProject
 │   │               ├── Main.java
 │   │               ├── NumberRangeSummarizer.java
 │   │               └── NumberRangeSummarizerImpl.java
-│   └── test
-│       └── java
-│           └── com
-│               └── example
-│                   └── NumberRangeSummarizerImplTest.java
 ├── target
 │   └── (Generated files after build)
 └── .vscode
     └── settings.json
+
 ```
 
 - **`pom.xml`**: Maven configuration file.
