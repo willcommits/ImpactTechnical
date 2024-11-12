@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.example.NumberRangeSummarizerImplTest" time="0.016" tests="15" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="gopherProxySet" value="false"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject/target/test-classes:/Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject/target/classes:/Users/abongilemkaza/.m2/repository/org/junit/jupiter/junit-jupiter/5.9.3/junit-jupiter-5.9.3.jar:/Users/abongilemkaza/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.jar:/Users/abongilemkaza/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/abongilemkaza/.m2/repository/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar:/Users/abongilemkaza/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/abongilemkaza/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.3/junit-jupiter-params-5.9.3.jar:/Users/abongilemkaza/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.jar:/Users/abongilemkaza/.m2/repository/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value=""/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="ZA"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject/target/surefire/surefirebooter18257649031275335327.jar /Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject/target/surefire 2024-11-13T00-36-20_016-jvmRun1 surefire4411934672927710249tmp surefire_011592171625922301279tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject/target/test-classes:/Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject/target/classes:/Users/abongilemkaza/.m2/repository/org/junit/jupiter/junit-jupiter/5.9.3/junit-jupiter-5.9.3.jar:/Users/abongilemkaza/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.jar:/Users/abongilemkaza/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/abongilemkaza/.m2/repository/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar:/Users/abongilemkaza/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/abongilemkaza/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.3/junit-jupiter-params-5.9.3.jar:/Users/abongilemkaza/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.jar:/Users/abongilemkaza/.m2/repository/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/abongilemkaza"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject/target/surefire/surefirebooter18257649031275335327.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="11.0.24+7-LTS-271"/>
+    <property name="user.name" value="abongilemkaza"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="14.3"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="/Users/abongilemkaza/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/zk/4yb2996n47x0k91txv1mn8zw0000gn/T/"/>
+    <property name="java.version" value="11.0.24"/>
+    <property name="user.dir" value="/Users/abongilemkaza/Desktop/Impact/Projects/NumberRangeSummarizerProject"/>
+    <property name="os.arch" value="aarch64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/Users/abongilemkaza/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.24+7-LTS-271"/>
+    <property name="java.specification.maintenance.version" value="2"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase name="summarizeCollection_SingleNumber_ReturnsNumber" classname="com.example.NumberRangeSummarizerImplTest" time="0.008"/>
+  <testcase name="collect_InputWithWhitespace_ReturnsParsedNumbers" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="summarizeCollection_NoConsecutiveNumbers_ReturnsCommaSeparated" classname="com.example.NumberRangeSummarizerImplTest" time="0.001"/>
+  <testcase name="summarizeCollection_ValidInput_ReturnsCorrectSummary" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="summarizeCollection_NullInput_ReturnsEmptyString" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="collect_InputWithDuplicates_ReturnsUniqueSortedCollection" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="summarizeCollection_EmptyCollection_ReturnsEmptyString" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="summarizeCollection_AllConsecutiveNumbers_ReturnsSingleRange" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="summarizeCollection_UnsortedInput_ReturnsSortedSummary" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="collect_ValidInput_ReturnsSortedUniqueCollection" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="collect_EmptyInput_ReturnsEmptyCollection" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="summarizeCollection_InputWithDuplicates_IgnoresDuplicates" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="collect_InputWithEmptyTokens_IgnoresEmptyTokens" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="collect_NullInput_ReturnsEmptyCollection" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+  <testcase name="collect_InvalidNumber_ThrowsIllegalArgumentException" classname="com.example.NumberRangeSummarizerImplTest" time="0"/>
+</testsuite>
