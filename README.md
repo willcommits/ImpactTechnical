@@ -87,7 +87,7 @@ ImpactTechnical
 
 1. **Ensure You're in the Project Root Directory:**
    ```bash
-   cd NumberRangeSummarizerProject
+   cd ImpactTechnical
    ```
 
 2. **Compile the Project:**
