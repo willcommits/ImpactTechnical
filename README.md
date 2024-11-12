@@ -112,7 +112,7 @@ ImpactTechnical
 
 1. **Navigate to the Project Root Directory:**
    ```bash
-   cd NumberRangeSummarizerProject
+   cd ImpactTechnical
    ```
 
 2. **Execute the Tests:**
